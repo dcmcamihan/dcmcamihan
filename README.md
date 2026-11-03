@@ -16,17 +16,17 @@ Hi, I'm **Dianna Claire Marie Amihan**, a Computer Science student at Mapúa Mal
 
 I build web applications and work on AI and machine learning projects. I enjoy the whole process, from understanding the problem and planning a solution to building and testing it. I also care about how things look and feel, so a lot of my work starts in Figma.
 
+I like turning ideas into something that actually *runs*.
+
 <br clear="right">
 
 <img src="./assets/avatar-pixel.gif" alt="Pixel art avatar of Dianna" width="240" align="left">
 
-I like turning ideas into something that actually *runs*.
-
 **Focus areas:**
-- web development
-- Artificial Intelligence
-- Machine Learning
-- UI/UX design
+  - web development
+  - Artificial Intelligence
+  - Machine Learning
+  - UI/UX design
 
 <a href="https://dcmcamihan.github.io/e-portfolio/"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="40"></a>
 <a href="https://www.linkedin.com/in/dianna-claire-marie-amihan-29ab23293"><img src="./assets/contact/linkedin.svg" alt="LinkedIn" height="40"></a>
