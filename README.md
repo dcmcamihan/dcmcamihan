@@ -138,6 +138,14 @@ I like turning ideas into something that actually *runs*.
 
 <br>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/coding-girl-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/coding-girl-light.gif">
+    <img src="./assets/coding-girl-dark.gif" alt="Illustration of a girl with headphones coding at a desk with two monitors" width="720">
+  </picture>
+</p>
+
 ---
 
 <p align="center">
