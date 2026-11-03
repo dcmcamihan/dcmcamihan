@@ -21,7 +21,7 @@
 
 `> whoami`
 
-Hi, I'm **Dianna Claire Marie Amihan**, a Computer Science student at Mapúa Malayan Colleges of Mindanao in Davao City, Philippines.
+Hi, I'm **Dianna Claire Marie Amihan**, a Computer Science student at Mapúa Malayan Colleges Mindanao in Davao City, Philippines.
 
 I build web applications and work on AI and machine learning projects. I enjoy the whole process, from understanding the problem and planning a solution to building and testing it. I also care about how things look and feel, so a lot of my work starts in Figma.
 
