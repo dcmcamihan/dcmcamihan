@@ -131,7 +131,7 @@ I like turning ideas into something that actually *runs*.
 - 💼 Completed my OJT as a Desktop Support Intern at Anflocor's IT department
 - 📄 SeGlo-12 paper accepted at ICSTE 2025
 - 🧪 Continuing work on ChatSafe's translate-then-classify pipeline
-- 🌱 Learning more about backend deployment and servers
+- 🌱 Always learning more
 
 <br clear="right">
 
