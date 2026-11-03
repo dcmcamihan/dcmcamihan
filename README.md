@@ -10,7 +10,7 @@
 
 `> whoami`
 
-<img src="./assets/avatar.png" alt="Illustrated avatar of Dianna" width="190" align="left">
+<img src="./assets/coding.gif" alt="Pixel art of hands typing on a laptop" width="300" align="right">
 
 Hi, I'm **Dianna Claire Marie Amihan**, a Computer Science student at Mapúa Malayan Colleges Mindanao in Davao City, Philippines.
 
@@ -18,9 +18,9 @@ I build web applications and work on AI and machine learning projects. I enjoy t
 
 I like turning ideas into something that actually *runs*.
 
-<br clear="left">
+<br clear="right">
 
-<img src="./assets/coding.gif" alt="Pixel art of hands typing on a laptop" width="310" align="right">
+<img src="./assets/avatar.png" alt="Illustrated avatar of Dianna" width="240" align="left">
 
 - **Focus:** web development, AI and machine learning, UI/UX design
 - **Research:** cyberbullying, sign language, and AI image detection
@@ -32,44 +32,46 @@ I like turning ideas into something that actually *runs*.
 <a href="mailto:diannaclairemarie.amihan@gmail.com"><img src="./assets/contact/email.svg" alt="Email" height="40"></a>
 <a href="https://www.credly.com/users/dianna-claire-marie-amihan"><img src="./assets/contact/credly.svg" alt="Credly" height="40"></a>
 
-<br clear="right">
+<br clear="left">
+
+<br>
 
 ## Toolbox
 
 `> ls ~/tools`
 
 **Languages**<br>
-<img src="./assets/icons/openjdk.svg" alt="Java" title="Java" width="40" height="40">
-<img src="./assets/icons/python.svg" alt="Python" title="Python" width="40" height="40">
-<img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40">
-<img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40">
-<img src="./assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="40" height="40">
-<img src="./assets/icons/csharp.svg" alt="C#" title="C#" width="40" height="40">
-<img src="./assets/icons/cpp.svg" alt="C++" title="C++" width="40" height="40">
-<img src="./assets/icons/html.svg" alt="HTML" title="HTML" width="40" height="40">
-<img src="./assets/icons/css.svg" alt="CSS" title="CSS" width="40" height="40">
+<img src="./assets/icons/openjdk.svg" alt="Java" title="Java" width="52" height="52">
+<img src="./assets/icons/python.svg" alt="Python" title="Python" width="52" height="52">
+<img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="52" height="52">
+<img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="52" height="52">
+<img src="./assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="52" height="52">
+<img src="./assets/icons/csharp.svg" alt="C#" title="C#" width="52" height="52">
+<img src="./assets/icons/cpp.svg" alt="C++" title="C++" width="52" height="52">
+<img src="./assets/icons/html.svg" alt="HTML" title="HTML" width="52" height="52">
+<img src="./assets/icons/css.svg" alt="CSS" title="CSS" width="52" height="52">
 
 **Web and backend**<br>
-<img src="./assets/icons/react.svg" alt="React" title="React" width="40" height="40">
-<img src="./assets/icons/vite.svg" alt="Vite" title="Vite" width="40" height="40">
-<img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40">
-<img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40">
-<img src="./assets/icons/express.svg" alt="Express" title="Express" width="40" height="40">
-<img src="./assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="40" height="40">
-<img src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="40" height="40">
+<img src="./assets/icons/react.svg" alt="React" title="React" width="52" height="52">
+<img src="./assets/icons/vite.svg" alt="Vite" title="Vite" width="52" height="52">
+<img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52">
+<img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="52" height="52">
+<img src="./assets/icons/express.svg" alt="Express" title="Express" width="52" height="52">
+<img src="./assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="52" height="52">
+<img src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="52" height="52">
 
 **AI and machine learning**<br>
-<img src="./assets/icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="40" height="40">
-<img src="./assets/icons/tensorflow.svg" alt="TensorFlow Lite" title="TensorFlow Lite" width="40" height="40">
-<img src="./assets/icons/mediapipe.svg" alt="MediaPipe" title="MediaPipe" width="40" height="40">
-<img src="./assets/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="40" height="40">
-<img src="./assets/icons/gemini.svg" alt="Gemini API" title="Gemini API" width="40" height="40">
+<img src="./assets/icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="52" height="52">
+<img src="./assets/icons/tensorflow.svg" alt="TensorFlow Lite" title="TensorFlow Lite" width="52" height="52">
+<img src="./assets/icons/mediapipe.svg" alt="MediaPipe" title="MediaPipe" width="52" height="52">
+<img src="./assets/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="52" height="52">
+<img src="./assets/icons/gemini.svg" alt="Gemini API" title="Gemini API" width="52" height="52">
 
 **Design and tools**<br>
-<img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="40" height="40">
-<img src="./assets/icons/canva.svg" alt="Canva" title="Canva" width="40" height="40">
-<img src="./assets/icons/git.svg" alt="Git" title="Git" width="40" height="40">
-<img src="./assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="40" height="40">
+<img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="52" height="52">
+<img src="./assets/icons/canva.svg" alt="Canva" title="Canva" width="52" height="52">
+<img src="./assets/icons/git.svg" alt="Git" title="Git" width="52" height="52">
+<img src="./assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="52" height="52">
 
 <br>
 
