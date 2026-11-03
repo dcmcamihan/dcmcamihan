@@ -39,37 +39,37 @@ I like turning ideas into something that actually *runs*.
 `> ls ~/tools`
 
 **Languages**<br>
-<img src="https://img.shields.io/badge/Java-1C1714?style=flat-square&logo=openjdk&logoColor=E89563" alt="Java">
-<img src="https://img.shields.io/badge/Python-1C1714?style=flat-square&logo=python&logoColor=E89563" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-1C1714?style=flat-square&logo=javascript&logoColor=E89563" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-1C1714?style=flat-square&logo=typescript&logoColor=E89563" alt="TypeScript">
-<img src="https://img.shields.io/badge/Kotlin-1C1714?style=flat-square&logo=kotlin&logoColor=E89563" alt="Kotlin">
-<img src="https://img.shields.io/badge/C%23-1C1714?style=flat-square&logo=sharp&logoColor=E89563" alt="C#">
-<img src="https://img.shields.io/badge/C++-1C1714?style=flat-square&logo=cplusplus&logoColor=E89563" alt="C++">
-<img src="https://img.shields.io/badge/HTML-1C1714?style=flat-square&logo=html5&logoColor=E89563" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1C1714?style=flat-square&logo=css&logoColor=E89563" alt="CSS">
+<img src="./assets/icons/openjdk.svg" alt="Java" title="Java" width="40" height="40">
+<img src="./assets/icons/python.svg" alt="Python" title="Python" width="40" height="40">
+<img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40">
+<img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40">
+<img src="./assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="40" height="40">
+<img src="./assets/icons/csharp.svg" alt="C#" title="C#" width="40" height="40">
+<img src="./assets/icons/cpp.svg" alt="C++" title="C++" width="40" height="40">
+<img src="./assets/icons/html.svg" alt="HTML" title="HTML" width="40" height="40">
+<img src="./assets/icons/css.svg" alt="CSS" title="CSS" width="40" height="40">
 
 **Web and backend**<br>
-<img src="https://img.shields.io/badge/React-1C1714?style=flat-square&logo=react&logoColor=E89563" alt="React">
-<img src="https://img.shields.io/badge/Vite-1C1714?style=flat-square&logo=vite&logoColor=E89563" alt="Vite">
-<img src="https://img.shields.io/badge/Tailwind_CSS-1C1714?style=flat-square&logo=tailwindcss&logoColor=E89563" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Node.js-1C1714?style=flat-square&logo=nodedotjs&logoColor=E89563" alt="Node.js">
-<img src="https://img.shields.io/badge/Express-1C1714?style=flat-square&logo=express&logoColor=E89563" alt="Express">
-<img src="https://img.shields.io/badge/FastAPI-1C1714?style=flat-square&logo=fastapi&logoColor=E89563" alt="FastAPI">
-<img src="https://img.shields.io/badge/MySQL-1C1714?style=flat-square&logo=mysql&logoColor=E89563" alt="MySQL">
+<img src="./assets/icons/react.svg" alt="React" title="React" width="40" height="40">
+<img src="./assets/icons/vite.svg" alt="Vite" title="Vite" width="40" height="40">
+<img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40">
+<img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40">
+<img src="./assets/icons/express.svg" alt="Express" title="Express" width="40" height="40">
+<img src="./assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="40" height="40">
+<img src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="40" height="40">
 
 **AI and machine learning**<br>
-<img src="https://img.shields.io/badge/PyTorch-1C1714?style=flat-square&logo=pytorch&logoColor=E89563" alt="PyTorch">
-<img src="https://img.shields.io/badge/TensorFlow_Lite-1C1714?style=flat-square&logo=tensorflow&logoColor=E89563" alt="TensorFlow Lite">
-<img src="https://img.shields.io/badge/MediaPipe-1C1714?style=flat-square&logo=google&logoColor=E89563" alt="MediaPipe">
-<img src="https://img.shields.io/badge/Hugging_Face-1C1714?style=flat-square&logo=huggingface&logoColor=E89563" alt="Hugging Face">
-<img src="https://img.shields.io/badge/Gemini_API-1C1714?style=flat-square&logo=googlegemini&logoColor=E89563" alt="Gemini API">
+<img src="./assets/icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="40" height="40">
+<img src="./assets/icons/tensorflow.svg" alt="TensorFlow Lite" title="TensorFlow Lite" width="40" height="40">
+<img src="./assets/icons/mediapipe.svg" alt="MediaPipe" title="MediaPipe" width="40" height="40">
+<img src="./assets/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="40" height="40">
+<img src="./assets/icons/gemini.svg" alt="Gemini API" title="Gemini API" width="40" height="40">
 
 **Design and tools**<br>
-<img src="https://img.shields.io/badge/Figma-1C1714?style=flat-square&logo=figma&logoColor=E89563" alt="Figma">
-<img src="https://img.shields.io/badge/Canva-1C1714?style=flat-square" alt="Canva">
-<img src="https://img.shields.io/badge/Git-1C1714?style=flat-square&logo=git&logoColor=E89563" alt="Git">
-<img src="https://img.shields.io/badge/Arduino-1C1714?style=flat-square&logo=arduino&logoColor=E89563" alt="Arduino">
+<img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="40" height="40">
+<img src="./assets/icons/canva.svg" alt="Canva" title="Canva" width="40" height="40">
+<img src="./assets/icons/git.svg" alt="Git" title="Git" width="40" height="40">
+<img src="./assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="40" height="40">
 
 <br>
 
