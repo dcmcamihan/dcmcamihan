@@ -127,10 +127,6 @@ I like turning ideas into something that actually *runs*.
 
 <img src="./assets/coding.gif" alt="Pixel art of hands typing on a laptop" width="300" align="right">
 
-- 🎓 Finishing my final year of BS Computer Science
-- 💼 Completed my OJT as a Desktop Support Intern at Anflocor's IT department
-- 📄 SeGlo-12 paper accepted at ICSTE 2025
-- 🧪 Continuing work on ChatSafe's translate-then-classify pipeline
 - 🌱 Always learning more
 
 <br clear="right">
