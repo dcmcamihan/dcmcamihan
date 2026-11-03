@@ -73,6 +73,23 @@ I like turning ideas into something that actually *runs*.
 
 <br>
 
+## GitHub stats
+
+`> git log --since="1 year ago"`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats/activity-light.svg">
+  <img src="./assets/stats/activity-dark.svg" alt="Weekly contribution activity over the last 12 months" width="60%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats/languages-light.svg">
+  <img src="./assets/stats/languages-dark.svg" alt="Top languages across my repositories" width="39%">
+</picture>
+
+<br>
+
 ## Featured projects
 
 `> ls ~/projects --featured`
