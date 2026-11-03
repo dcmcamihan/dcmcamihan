@@ -6,15 +6,6 @@
   </picture>
 </a>
 
-<p align="center">
-  <a href="https://dcmcamihan.github.io/e-portfolio/"><img src="https://img.shields.io/badge/Portfolio-C9713F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/dianna-claire-marie-amihan-29ab23293"><img src="https://img.shields.io/badge/LinkedIn-1C1714?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0U4OTU2MyIgZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
-  <a href="mailto:diannaclairemarie.amihan@gmail.com"><img src="https://img.shields.io/badge/Email-1C1714?style=for-the-badge&logo=gmail&logoColor=E89563" alt="Email"></a>
-  <a href="https://www.credly.com/users/dianna-claire-marie-amihan"><img src="https://img.shields.io/badge/Credly-1C1714?style=for-the-badge&logo=credly&logoColor=E89563" alt="Credly"></a>
-</p>
-
-<br>
-
 ## About me
 
 <img src="./assets/avatar.png" alt="Illustrated avatar of Dianna" width="210" align="right">
@@ -31,6 +22,12 @@ I like turning ideas into something that actually *runs*.
 - **Research:** cyberbullying detection, sign language translation, AI-generated image detection
 - **Based in:** Davao City, Philippines
 - **Open to:** web development and AI/ML opportunities
+
+**Contact**<br>
+<a href="https://dcmcamihan.github.io/e-portfolio/"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="40"></a>
+<a href="https://www.linkedin.com/in/dianna-claire-marie-amihan-29ab23293"><img src="./assets/contact/linkedin.svg" alt="LinkedIn" height="40"></a>
+<a href="mailto:diannaclairemarie.amihan@gmail.com"><img src="./assets/contact/email.svg" alt="Email" height="40"></a>
+<a href="https://www.credly.com/users/dianna-claire-marie-amihan"><img src="./assets/contact/credly.svg" alt="Credly" height="40"></a>
 
 <br clear="right">
 
