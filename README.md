@@ -22,12 +22,15 @@ I like turning ideas into something that actually *runs*.
 
 <img src="./assets/avatar-pixel.gif" alt="Pixel art avatar of Dianna" width="240" align="left">
 
-**Focus areas:**
-  - web development
-  - Artificial Intelligence
-  - Machine Learning
-  - UI/UX design
+<br>
 
+**Focus areas**<br>
+<img src="./assets/focus/web.svg" alt="Web development" height="40">
+<img src="./assets/focus/uiux.svg" alt="UI/UX design" height="40"><br>
+<img src="./assets/focus/ai.svg" alt="Artificial intelligence" height="40">
+<img src="./assets/focus/ml.svg" alt="Machine learning" height="40">
+
+**Find me on**<br>
 <a href="https://dcmcamihan.github.io/e-portfolio/"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="40"></a>
 <a href="https://www.linkedin.com/in/dianna-claire-marie-amihan-29ab23293"><img src="./assets/contact/linkedin.svg" alt="LinkedIn" height="40"></a>
 <a href="mailto:diannaclairemarie.amihan@gmail.com"><img src="./assets/contact/email.svg" alt="Email" height="40"></a>
@@ -92,14 +95,13 @@ I like turning ideas into something that actually *runs*.
 </picture>
 
 <br>
+<br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/coding-girl-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/coding-girl-light.gif">
-    <img src="./assets/coding-girl-dark.gif" alt="Illustration of a girl with headphones coding at a desk with two monitors" width="720">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pixel-pet-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pixel-pet-light.gif">
+  <img src="./assets/pixel-pet-dark.gif" alt="Pixel art cat walking along the grass" width="100%">
+</picture>
 
 ---
 
