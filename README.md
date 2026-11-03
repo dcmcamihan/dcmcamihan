@@ -20,7 +20,7 @@ I like turning ideas into something that actually *runs*.
 
 <br clear="left">
 
-<img src="./assets/coding.gif" alt="Pixel art of hands typing on a laptop" width="230" align="right">
+<img src="./assets/coding.gif" alt="Pixel art of hands typing on a laptop" width="310" align="right">
 
 - **Focus:** web development, AI and machine learning, UI/UX design
 - **Research:** cyberbullying, sign language, and AI image detection
