@@ -8,9 +8,9 @@
 
 ## About me
 
-<img src="./assets/avatar.png" alt="Illustrated avatar of Dianna" width="210" align="right">
-
 `> whoami`
+
+<img src="./assets/avatar.png" alt="Illustrated avatar of Dianna" width="190" align="left">
 
 Hi, I'm **Dianna Claire Marie Amihan**, a Computer Science student at Mapúa Malayan Colleges Mindanao in Davao City, Philippines.
 
@@ -18,12 +18,15 @@ I build web applications and work on AI and machine learning projects. I enjoy t
 
 I like turning ideas into something that actually *runs*.
 
-- **Focus areas:** web development, AI and machine learning, UI/UX design
-- **Research:** cyberbullying detection, sign language translation, AI-generated image detection
+<br clear="left">
+
+<img src="./assets/coding.gif" alt="Pixel art of hands typing on a laptop" width="230" align="right">
+
+- **Focus:** web development, AI and machine learning, UI/UX design
+- **Research:** cyberbullying, sign language, and AI image detection
 - **Based in:** Davao City, Philippines
 - **Open to:** web development and AI/ML opportunities
 
-**Contact**<br>
 <a href="https://dcmcamihan.github.io/e-portfolio/"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="40"></a>
 <a href="https://www.linkedin.com/in/dianna-claire-marie-amihan-29ab23293"><img src="./assets/contact/linkedin.svg" alt="LinkedIn" height="40"></a>
 <a href="mailto:diannaclairemarie.amihan@gmail.com"><img src="./assets/contact/email.svg" alt="Email" height="40"></a>
@@ -117,16 +120,6 @@ I like turning ideas into something that actually *runs*.
 </table>
 
 <br>
-
-## Right now
-
-`> cat now.txt`
-
-<img src="./assets/coding.gif" alt="Pixel art of hands typing on a laptop" width="300" align="right">
-
-- 🌱 Always learning more
-
-<br clear="right">
 
 ---
 
