@@ -20,7 +20,7 @@ I like turning ideas into something that actually *runs*.
 
 <br clear="right">
 
-<img src="./assets/avatar.png" alt="Illustrated avatar of Dianna" width="240" align="left">
+<img src="./assets/avatar-pixel.gif" alt="Pixel art avatar of Dianna" width="240" align="left">
 
 - **Focus:** web development, AI and machine learning, UI/UX design
 - **Research:** cyberbullying, sign language, and AI image detection
@@ -89,54 +89,6 @@ I like turning ideas into something that actually *runs*.
   <source media="(prefers-color-scheme: light)" srcset="./assets/stats/languages-light.svg">
   <img src="./assets/stats/languages-dark.svg" alt="Top languages across my repositories" width="39%">
 </picture>
-
-<br>
-
-## Featured projects
-
-`> ls ~/projects --featured`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://dcmcamihan.github.io/e-portfolio/#projects"><img src="./assets/chatsafe.jpg" alt="ChatSafe preview" width="100%"></a>
-      <h3>ChatSafe</h3>
-      <sub><b>LEAD</b> · AI/ML · NLP</sub>
-      <p>Cyberbullying detection for code-mixed Tagalog, Bisaya, and English text. It translates the mixed text into English first, then classifies it with HateBERT, since there is little Filipino training data to work with.</p>
-      <p><code>70.4% Tier 3 macro-F1</code> <code>+16pp from translation</code></p>
-      <sub>Python · Gemini API · HateBERT · React · Node.js · MySQL</sub><br>
-      <sub>🔒 Private repo · <a href="https://dcmcamihan.github.io/e-portfolio/#projects">details on my portfolio</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/dcmcamihan/seglo12"><img src="./assets/seglo-12.jpg" alt="SeGlo-12 smart glove" width="100%"></a>
-      <h3>SeGlo-12</h3>
-      <sub><b>LEAD</b> · AI/ML · Computer Vision · Embedded</sub>
-      <p>A Philippine sign language translator with two modes. A flex-sensor smart glove and a camera mode using MediaPipe hand tracking both turn gestures into speech and text in real time.</p>
-      <p><code>87% vision accuracy</code> <code>4.51/5 beta satisfaction</code></p>
-      <sub>Arduino · C++ · MediaPipe · TensorFlow Lite · Python</sub><br>
-      <sub><a href="https://github.com/dcmcamihan/seglo12">View repository →</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/dcmcamihan/bicycle-supply-frontend"><img src="./assets/jolens.jpg" alt="Jolen's Bicycle Supply dashboard" width="100%"></a>
-      <h3>Jolen's Bicycle Supply</h3>
-      <sub><b>CONTRIBUTOR</b> · Full-stack · Web</sub>
-      <p>A point-of-sale and inventory system for a bicycle shop in Digos City that was still using paper logs. It handles sales, live stock tracking, and daily reports. I worked on the frontend and the database.</p>
-      <sub>React · Vite · Tailwind CSS · Node.js · Express · MySQL</sub><br>
-      <sub><a href="https://github.com/dcmcamihan/bicycle-supply-frontend">Frontend</a> · <a href="https://github.com/dcmcamihan/bicycle-supply-backend">Backend</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/dcmcamihan/ai-image-detector"><img src="./assets/ai-image-detection.jpg" alt="AI image detection preview" width="100%"></a>
-      <h3>AI Image Detection</h3>
-      <sub><b>LEAD</b> · AI/ML · Computer Vision · Forensics</sub>
-      <p>Tells real photos apart from AI-generated ones using a fine-tuned Swin Transformer. Grad-CAM heatmaps show which parts of the image led to the decision.</p>
-      <p><code>7 AI platforms covered</code></p>
-      <sub>Python · PyTorch · Swin Transformer · Grad-CAM</sub><br>
-      <sub><a href="https://github.com/dcmcamihan/ai-image-detector">View repository →</a></sub>
-    </td>
-  </tr>
-</table>
 
 <br>
 
