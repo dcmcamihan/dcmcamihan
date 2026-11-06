@@ -45,37 +45,37 @@ I like turning ideas into something that actually *runs*.
 `> ls ~/tools`
 
 **Languages**<br>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/openjdk-light.svg"><img src="./assets/icons/openjdk.svg" alt="Java" title="Java" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/python-light.svg"><img src="./assets/icons/python.svg" alt="Python" title="Python" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/javascript-light.svg"><img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/typescript-light.svg"><img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/kotlin-light.svg"><img src="./assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/csharp-light.svg"><img src="./assets/icons/csharp.svg" alt="C#" title="C#" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/cpp-light.svg"><img src="./assets/icons/cpp.svg" alt="C++" title="C++" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/html-light.svg"><img src="./assets/icons/html.svg" alt="HTML" title="HTML" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/css-light.svg"><img src="./assets/icons/css.svg" alt="CSS" title="CSS" width="52" height="52"></picture>
+<a href="https://docs.oracle.com/en/java/" title="Java"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/openjdk-light.svg"><img src="./assets/icons/openjdk.svg" alt="Java" title="Java" width="52" height="52"></picture></a>
+<a href="https://docs.python.org/3/" title="Python"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/python-light.svg"><img src="./assets/icons/python.svg" alt="Python" title="Python" width="52" height="52"></picture></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/javascript-light.svg"><img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="52" height="52"></picture></a>
+<a href="https://www.typescriptlang.org/docs/" title="TypeScript"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/typescript-light.svg"><img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="52" height="52"></picture></a>
+<a href="https://kotlinlang.org/docs/home.html" title="Kotlin"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/kotlin-light.svg"><img src="./assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="52" height="52"></picture></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/csharp-light.svg"><img src="./assets/icons/csharp.svg" alt="C#" title="C#" width="52" height="52"></picture></a>
+<a href="https://isocpp.org/" title="C++"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/cpp-light.svg"><img src="./assets/icons/cpp.svg" alt="C++" title="C++" width="52" height="52"></picture></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/html-light.svg"><img src="./assets/icons/html.svg" alt="HTML" title="HTML" width="52" height="52"></picture></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/css-light.svg"><img src="./assets/icons/css.svg" alt="CSS" title="CSS" width="52" height="52"></picture></a>
 
 **Web and backend**<br>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/react-light.svg"><img src="./assets/icons/react.svg" alt="React" title="React" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/vite-light.svg"><img src="./assets/icons/vite.svg" alt="Vite" title="Vite" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/tailwindcss-light.svg"><img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/nodejs-light.svg"><img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/express-light.svg"><img src="./assets/icons/express.svg" alt="Express" title="Express" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/fastapi-light.svg"><img src="./assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/mysql-light.svg"><img src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="52" height="52"></picture>
+<a href="https://react.dev/" title="React"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/react-light.svg"><img src="./assets/icons/react.svg" alt="React" title="React" width="52" height="52"></picture></a>
+<a href="https://vite.dev/guide/" title="Vite"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/vite-light.svg"><img src="./assets/icons/vite.svg" alt="Vite" title="Vite" width="52" height="52"></picture></a>
+<a href="https://tailwindcss.com/docs" title="Tailwind CSS"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/tailwindcss-light.svg"><img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52"></picture></a>
+<a href="https://nodejs.org/en/docs" title="Node.js"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/nodejs-light.svg"><img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="52" height="52"></picture></a>
+<a href="https://expressjs.com/" title="Express"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/express-light.svg"><img src="./assets/icons/express.svg" alt="Express" title="Express" width="52" height="52"></picture></a>
+<a href="https://fastapi.tiangolo.com/" title="FastAPI"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/fastapi-light.svg"><img src="./assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="52" height="52"></picture></a>
+<a href="https://dev.mysql.com/doc/" title="MySQL"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/mysql-light.svg"><img src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="52" height="52"></picture></a>
 
 **AI and machine learning**<br>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/pytorch-light.svg"><img src="./assets/icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/tensorflow-light.svg"><img src="./assets/icons/tensorflow.svg" alt="TensorFlow Lite" title="TensorFlow Lite" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/mediapipe-light.svg"><img src="./assets/icons/mediapipe.svg" alt="MediaPipe" title="MediaPipe" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/huggingface-light.svg"><img src="./assets/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/gemini-light.svg"><img src="./assets/icons/gemini.svg" alt="Gemini API" title="Gemini API" width="52" height="52"></picture>
+<a href="https://pytorch.org/" title="PyTorch"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/pytorch-light.svg"><img src="./assets/icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="52" height="52"></picture></a>
+<a href="https://www.tensorflow.org/lite" title="TensorFlow Lite"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/tensorflow-light.svg"><img src="./assets/icons/tensorflow.svg" alt="TensorFlow Lite" title="TensorFlow Lite" width="52" height="52"></picture></a>
+<a href="https://developers.google.com/mediapipe" title="MediaPipe"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/mediapipe-light.svg"><img src="./assets/icons/mediapipe.svg" alt="MediaPipe" title="MediaPipe" width="52" height="52"></picture></a>
+<a href="https://huggingface.co/" title="Hugging Face"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/huggingface-light.svg"><img src="./assets/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="52" height="52"></picture></a>
+<a href="https://ai.google.dev/" title="Gemini API"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/gemini-light.svg"><img src="./assets/icons/gemini.svg" alt="Gemini API" title="Gemini API" width="52" height="52"></picture></a>
 
 **Design and tools**<br>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/figma-light.svg"><img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/canva-light.svg"><img src="./assets/icons/canva.svg" alt="Canva" title="Canva" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/git-light.svg"><img src="./assets/icons/git.svg" alt="Git" title="Git" width="52" height="52"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/arduino-light.svg"><img src="./assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="52" height="52"></picture>
+<a href="https://help.figma.com/" title="Figma"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/figma-light.svg"><img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="52" height="52"></picture></a>
+<a href="https://www.canva.com/help/" title="Canva"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/canva-light.svg"><img src="./assets/icons/canva.svg" alt="Canva" title="Canva" width="52" height="52"></picture></a>
+<a href="https://git-scm.com/doc" title="Git"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/git-light.svg"><img src="./assets/icons/git.svg" alt="Git" title="Git" width="52" height="52"></picture></a>
+<a href="https://docs.arduino.cc/" title="Arduino"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/arduino-light.svg"><img src="./assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="52" height="52"></picture></a>
 
 <br>
 
