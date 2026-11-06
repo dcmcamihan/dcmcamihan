@@ -25,16 +25,16 @@ I like turning ideas into something that actually *runs*.
 <br>
 
 **Focus areas**<br>
-<img src="./assets/focus/web.svg" alt="Web development" height="40">
-<img src="./assets/focus/uiux.svg" alt="UI/UX design" height="40"><br>
-<img src="./assets/focus/ai.svg" alt="Artificial intelligence" height="40">
-<img src="./assets/focus/ml.svg" alt="Machine learning" height="40">
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/focus/web-light.svg"><img src="./assets/focus/web.svg" alt="Web development" height="40"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/focus/uiux-light.svg"><img src="./assets/focus/uiux.svg" alt="UI/UX design" height="40"></picture><br>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/focus/ai-light.svg"><img src="./assets/focus/ai.svg" alt="Artificial intelligence" height="40"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/focus/ml-light.svg"><img src="./assets/focus/ml.svg" alt="Machine learning" height="40"></picture>
 
 **Find me on**<br>
-<a href="https://dcmcamihan.github.io/e-portfolio/"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="40"></a>
-<a href="https://www.linkedin.com/in/dianna-claire-marie-amihan-29ab23293"><img src="./assets/contact/linkedin.svg" alt="LinkedIn" height="40"></a>
-<a href="mailto:diannaclairemarie.amihan@gmail.com"><img src="./assets/contact/email.svg" alt="Email" height="40"></a>
-<a href="https://www.credly.com/users/dianna-claire-marie-amihan"><img src="./assets/contact/credly.svg" alt="Credly" height="40"></a>
+<a href="https://dcmcamihan.github.io/e-portfolio/"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/contact/portfolio-light.svg"><img src="./assets/contact/portfolio.svg" alt="Portfolio" height="40"></picture></a>
+<a href="https://www.linkedin.com/in/dianna-claire-marie-amihan-29ab23293"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/contact/linkedin-light.svg"><img src="./assets/contact/linkedin.svg" alt="LinkedIn" height="40"></picture></a>
+<a href="mailto:diannaclairemarie.amihan@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/contact/email-light.svg"><img src="./assets/contact/email.svg" alt="Email" height="40"></picture></a>
+<a href="https://www.credly.com/users/dianna-claire-marie-amihan"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/contact/credly-light.svg"><img src="./assets/contact/credly.svg" alt="Credly" height="40"></picture></a>
 
 <br clear="left">
 
@@ -45,37 +45,37 @@ I like turning ideas into something that actually *runs*.
 `> ls ~/tools`
 
 **Languages**<br>
-<img src="./assets/icons/openjdk.svg" alt="Java" title="Java" width="52" height="52">
-<img src="./assets/icons/python.svg" alt="Python" title="Python" width="52" height="52">
-<img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="52" height="52">
-<img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="52" height="52">
-<img src="./assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="52" height="52">
-<img src="./assets/icons/csharp.svg" alt="C#" title="C#" width="52" height="52">
-<img src="./assets/icons/cpp.svg" alt="C++" title="C++" width="52" height="52">
-<img src="./assets/icons/html.svg" alt="HTML" title="HTML" width="52" height="52">
-<img src="./assets/icons/css.svg" alt="CSS" title="CSS" width="52" height="52">
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/openjdk-light.svg"><img src="./assets/icons/openjdk.svg" alt="Java" title="Java" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/python-light.svg"><img src="./assets/icons/python.svg" alt="Python" title="Python" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/javascript-light.svg"><img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/typescript-light.svg"><img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/kotlin-light.svg"><img src="./assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/csharp-light.svg"><img src="./assets/icons/csharp.svg" alt="C#" title="C#" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/cpp-light.svg"><img src="./assets/icons/cpp.svg" alt="C++" title="C++" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/html-light.svg"><img src="./assets/icons/html.svg" alt="HTML" title="HTML" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/css-light.svg"><img src="./assets/icons/css.svg" alt="CSS" title="CSS" width="52" height="52"></picture>
 
 **Web and backend**<br>
-<img src="./assets/icons/react.svg" alt="React" title="React" width="52" height="52">
-<img src="./assets/icons/vite.svg" alt="Vite" title="Vite" width="52" height="52">
-<img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52">
-<img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="52" height="52">
-<img src="./assets/icons/express.svg" alt="Express" title="Express" width="52" height="52">
-<img src="./assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="52" height="52">
-<img src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="52" height="52">
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/react-light.svg"><img src="./assets/icons/react.svg" alt="React" title="React" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/vite-light.svg"><img src="./assets/icons/vite.svg" alt="Vite" title="Vite" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/tailwindcss-light.svg"><img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/nodejs-light.svg"><img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/express-light.svg"><img src="./assets/icons/express.svg" alt="Express" title="Express" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/fastapi-light.svg"><img src="./assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/mysql-light.svg"><img src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="52" height="52"></picture>
 
 **AI and machine learning**<br>
-<img src="./assets/icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="52" height="52">
-<img src="./assets/icons/tensorflow.svg" alt="TensorFlow Lite" title="TensorFlow Lite" width="52" height="52">
-<img src="./assets/icons/mediapipe.svg" alt="MediaPipe" title="MediaPipe" width="52" height="52">
-<img src="./assets/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="52" height="52">
-<img src="./assets/icons/gemini.svg" alt="Gemini API" title="Gemini API" width="52" height="52">
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/pytorch-light.svg"><img src="./assets/icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/tensorflow-light.svg"><img src="./assets/icons/tensorflow.svg" alt="TensorFlow Lite" title="TensorFlow Lite" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/mediapipe-light.svg"><img src="./assets/icons/mediapipe.svg" alt="MediaPipe" title="MediaPipe" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/huggingface-light.svg"><img src="./assets/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/gemini-light.svg"><img src="./assets/icons/gemini.svg" alt="Gemini API" title="Gemini API" width="52" height="52"></picture>
 
 **Design and tools**<br>
-<img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="52" height="52">
-<img src="./assets/icons/canva.svg" alt="Canva" title="Canva" width="52" height="52">
-<img src="./assets/icons/git.svg" alt="Git" title="Git" width="52" height="52">
-<img src="./assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="52" height="52">
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/figma-light.svg"><img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/canva-light.svg"><img src="./assets/icons/canva.svg" alt="Canva" title="Canva" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/git-light.svg"><img src="./assets/icons/git.svg" alt="Git" title="Git" width="52" height="52"></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/arduino-light.svg"><img src="./assets/icons/arduino.svg" alt="Arduino" title="Arduino" width="52" height="52"></picture>
 
 <br>
 
