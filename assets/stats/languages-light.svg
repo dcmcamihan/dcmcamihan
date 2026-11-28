@@ -4,7 +4,7 @@
 <rect x="0.5" y="0.5" width="339" height="209" rx="14" fill="#FFFFFF" stroke="#D0D7DE"/>
 <text x="24" y="34" fill="#1F2328" font-size="15" font-weight="600">Top languages</text>
 <text x="24" y="53" fill="#6E7781" font-size="12">Across my repositories</text>
-<g clip-path="url(#bar)"><rect x="24" y="72" width="292" height="10" fill="#EEF1F4"/><rect x="24.0" y="72" width="107.5" height="10" fill="#F1E05A"/><rect x="134.5" y="72" width="41.4" height="10" fill="#A97BFF"/><rect x="179.0" y="72" width="39.2" height="10" fill="#B07219"/><rect x="221.2" y="72" width="37.5" height="10" fill="#E34C26"/><rect x="261.7" y="72" width="29.8" height="10" fill="#3572A5"/><rect x="294.5" y="72" width="21.5" height="10" fill="#3178C6"/></g>
+<g clip-path="url(#bar)"><rect x="24" y="72" width="292" height="10" fill="#EEF1F4"/><rect x="24.0" y="72" width="107.1" height="10" fill="#F1E05A"/><rect x="134.1" y="72" width="41.4" height="10" fill="#A97BFF"/><rect x="178.5" y="72" width="39.2" height="10" fill="#B07219"/><rect x="220.7" y="72" width="37.5" height="10" fill="#E34C26"/><rect x="261.2" y="72" width="29.8" height="10" fill="#3572A5"/><rect x="293.9" y="72" width="22.1" height="10" fill="#3178C6"/></g>
 <circle cx="29" cy="110" r="5" fill="#F1E05A"/>
 <text x="42" y="114" fill="#1F2328" font-size="13" font-weight="500">JavaScript</text>
 <text x="156" y="114" fill="#6E7781" font-size="12" text-anchor="end">39%</text>
@@ -22,5 +22,5 @@
 <text x="156" y="174" fill="#6E7781" font-size="12" text-anchor="end">11%</text>
 <circle cx="175" cy="170" r="5" fill="#3178C6"/>
 <text x="188" y="174" fill="#1F2328" font-size="13" font-weight="500">TypeScript</text>
-<text x="302" y="174" fill="#6E7781" font-size="12" text-anchor="end">7.8%</text>
+<text x="302" y="174" fill="#6E7781" font-size="12" text-anchor="end">8.0%</text>
 </svg>
